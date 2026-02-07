@@ -1,4 +1,4 @@
--- ts file was generated at discord.gg/25ms
+-- discord.gg/WNpTKXXeeU
 
 local _Lighting = game:GetService('Lighting')
 local _RunService = game:GetService('RunService')
